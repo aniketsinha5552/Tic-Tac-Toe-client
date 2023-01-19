@@ -1,2 +1,3 @@
-# Tic-Tac-Toe-client
- Front End for Tic Tac Toe
+# Tic-Tac-Toe
+## Front End for Tic Tac Toe
+
