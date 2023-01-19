@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
+.App{
+    color: #333333;
+    font-family: 'Epilogue', sans-serif;
+    font-weight: 700;
+    display: grid;
+    place-items: center;
+}
+
+  

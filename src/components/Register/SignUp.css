@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
+.signUp{
+    display: grid;
+    padding: 5px 5px;
+    font-family: 'Epilogue', sans-serif;
+}
+
+.signUp>input{
+    width: 360px;
+    height: 50px;
+    border-radius: 8px;
+    border: none;
+    background-color: #F4F4F4;
+}
+
+.signUp>h1{
+    height: 64px;
+    font-weight: 900;
+    font-size: 28px;
+    margin-top: 10px;
+}
+
+.signUp>label{
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.signUp>p{
+    font-size: 14px;
+    font-weight: 700;
+}
+
+#signup-btn{
+    width: 360px;
+    background-color: #F2C94C;
+    color: white;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    position: absolute;
+    bottom: 10px;
+}
+
+#goBack{
+    background-color: transparent;
+    border: none;
+    position: relative;
+    margin-bottom: 5px;
+    margin-top: 10px;
+    width: 100%;
+    align-self: left;
+    text-align: left;
+}

@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bilbo&display=swap');
+#home{
+    display: grid;
+    place-items: center;
+    /* margin-top: 200px; */
+    height: 100vh;
+}
+
+#home>p{
+    font-family: 'Bilbo', cursive;
+    font-size: 36px;
+    font-weight: 400;
+    text-align: center;
+}
+
+#home>h1{
+    font-family: 'Bilbo', cursive;
+    font-size: 96px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: -200px;
+}
+
+#login-btn{
+    width: 350px;
+    background-color: #F2C94C;
+    color: white;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    position: absolute;
+    bottom: 80px;
+}
+#reg-btn{
+    width: 350px;
+    background-color: #2F80ED;
+    color: white;
+    height: 50px;
+    border-radius: 5px;
+    border: none;
+    position: absolute;
+    bottom: 10px;
+}
