@@ -24,3 +24,19 @@
 * ExpressJs
 * Stream Chat API
 
+## How to run
+* Download the files from the frontend repository
+* Open the folder in VS code and open the teminal
+* Install node modules in the folder with `package.json` file using `npm install`
+* Then just `npm start`
+
+## Issues/Bugs
+* User is able to login with incorrect username/password but won't be able to start the game.
+* Once in the game, the player who clicks fisrt gets assigned 'x' and the other player 'o'.
+* Game continues even after a player has won.
+
+## Upcoming Feature
+* History of games for each user
+* A chatting channel
+* Player Avatars
+
